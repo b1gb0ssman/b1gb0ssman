@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @b1gb0ssman
-- 🌱 I’m currently learning full stack web development
+- 👋 Hi, I’m James Alderson
+- 🌱 I’m currently training in full stack web development
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 Reach me on GitHub
 - 😄 Pronouns: He/Him/They/Them
