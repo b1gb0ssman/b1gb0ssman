@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @b1gb0ssman
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 Reach me on GitHub!
+- 📫 Reach me on GitHub
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: I love the art of tattooing!
 
