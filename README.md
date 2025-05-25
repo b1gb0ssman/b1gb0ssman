@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Alderson
+- 👋 Hi, I’m James 
 - 🌱 I’m currently studying full-stack web development technologies
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 Reach me on GitHub
